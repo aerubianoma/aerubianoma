@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ### **¿What do you want to see?**:
 
 - [🔧 Skills](#skills)
-- [🔧 To learn](#to-learn)
+- [📓 To learn](#to-learn)
 - [📈 Statistics on GitHub](#statistics)
 - [📲 Contact me](#contact)
 
