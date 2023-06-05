@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aerubianoma 
-- 👀 I’m interested in Machine Learning, AI and numerical solutions to PDEs (VFEM)
+- 👀 I’m interested in Numerical solutions to PDEs (VEM)
 - 🌱 I’m currently learning Data Science for professional purposes
 - 💞️ I’m looking to collaborate on Projects that need a mathematical knowledge
 <!---
