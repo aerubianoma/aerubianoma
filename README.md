@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aerubianoma 
 - 👀 I’m interested in Numerical solutions to PDEs (VEM)
-- 🌱 I’m currently learning Data Science for professional purposes
-- 💞️ I’m looking to collaborate on Projects that need a mathematical knowledge
+- 🌱 I’m currently working on VEM for poroelasticity and coupled problems in physics
 <!---
 aerubianoma/aerubianoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
