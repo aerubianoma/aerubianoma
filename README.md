@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @aerubianoma 
-- 👀 I’m interested in Numerical solutions to PDEs (VEM)
-- 🌱 I’m currently working on VEM for poroelasticity and coupled problems in physics
+# **Welcome to my coding corner**
+👋 G'day, I'm PhD student at Monash University in computational mathematics. 👀 My interested is numerical solutions to PDEs, Virtual element methods, scientific computing and applied mathematics.
+🌱 Currently working on VEM for poroelasticity and coupled problems in physics.
 <!---
 aerubianoma/aerubianoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
 ## **Programming Languages**
 
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,11 +46,21 @@ You can click the Preview link to take a look at your changes.
 
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+--->
 
 ## **Statistics**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerubianoma&hide=html,jupyter%20notebook,css,coffeescript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerubianoma&layout=compact&hide=html,jupyter%20notebook,css,coffeescript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+
+## **Publications**
+
+1. Rekha Khot, Andres E. Rubiano, and Ricardo Ruiz-Baier. Robust virtual element methods for coupled stress-assisted
+diffusion problems, 2024. <a href="https://arxiv.org/abs/2401.09714" target="_blank">
+                             <img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/>
+                          </a> <a href="https://github.com/aerubianoma/vem_stress_assisted_diffusion" target="_blank">
+                                  <img src="https://freeiconshop.com/wp-content/uploads/edd/code-flat.png" width="25" height="25"/>
+                                </a>
+                           
 
 ## **Contact**
 
@@ -61,3 +72,5 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+
+[1]: https://arxiv.org/abs/2401.09714
