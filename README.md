@@ -61,14 +61,17 @@ diffusion problems, 2024. <a href="https://arxiv.org/abs/2401.09714" target="_bl
                                 </a>
                            
 
-## **Contact**
+## **Contact me**
 
 <p>
-<a href="mailto:aerubianoma@unal.edu.co?Subject=Interest to reach you" target="_blank">
+<a href="mailto:andres.rubianomartinez@monash.edu?Subject=Interest to reach you" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aerubianoma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.researchgate.net/profile/Andres-Rubiano-9" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>
 </a>
 </p>
 
