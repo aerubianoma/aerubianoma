@@ -68,7 +68,8 @@ diffusion problems, SIAM Journal on Scientific Computing, 2024. <a href="https:/
                           </a> <a href="https://github.com/aerubianoma/vem_stress_assisted_diffusion" target="_blank">
                                   <img src="https://freeiconshop.com/wp-content/uploads/edd/code-flat.png" width="25" height="25"/>
                                 </a>
-                           
+
+## **Published in refereed international journals**
 
 ## **Contact me**
 
