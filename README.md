@@ -53,13 +53,6 @@ You can click the Preview link to take a look at your changes.
 
 ## **Under review (submitted preprints)**
 
-1. Rekha Khot, Andres E. Rubiano, and Ricardo Ruiz-Baier. Robust virtual element methods for coupled stress-assisted
-diffusion problems, 2024. <a href="https://arxiv.org/abs/2401.09714" target="_blank">
-                             <img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/>
-                          </a> <a href="https://github.com/aerubianoma/vem_stress_assisted_diffusion" target="_blank">
-                                  <img src="https://freeiconshop.com/wp-content/uploads/edd/code-flat.png" width="25" height="25"/>
-                                </a>
-
 ## **In press (accepted for publication)**
 
 1. Rekha Khot, Andres E. Rubiano, and Ricardo Ruiz-Baier. Robust virtual element methods for coupled stress-assisted
