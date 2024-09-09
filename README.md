@@ -51,10 +51,19 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerubianoma&layout=compact&hide=html,jupyter%20notebook,css,coffeescript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
 
-## **Publications**
+## **Under review (submitted preprints)**
 
 1. Rekha Khot, Andres E. Rubiano, and Ricardo Ruiz-Baier. Robust virtual element methods for coupled stress-assisted
 diffusion problems, 2024. <a href="https://arxiv.org/abs/2401.09714" target="_blank">
+                             <img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/>
+                          </a> <a href="https://github.com/aerubianoma/vem_stress_assisted_diffusion" target="_blank">
+                                  <img src="https://freeiconshop.com/wp-content/uploads/edd/code-flat.png" width="25" height="25"/>
+                                </a>
+
+## **In press (accepted for publication)**
+
+1. Rekha Khot, Andres E. Rubiano, and Ricardo Ruiz-Baier. Robust virtual element methods for coupled stress-assisted
+diffusion problems, SIAM Journal on Scientific Computing, 2024. <a href="https://arxiv.org/abs/2401.09714" target="_blank">
                              <img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/>
                           </a> <a href="https://github.com/aerubianoma/vem_stress_assisted_diffusion" target="_blank">
                                   <img src="https://freeiconshop.com/wp-content/uploads/edd/code-flat.png" width="25" height="25"/>
