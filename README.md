@@ -59,14 +59,17 @@ You can click the Preview link to take a look at your changes.
 
 ## **In press (accepted for publication)**
 
-1. Rekha Khot, Andres E. Rubiano, and Ricardo Ruiz-Baier. Robust virtual element methods for coupled stress-assisted
-diffusion problems, SIAM Journal on Scientific Computing, 2024. <a href="https://arxiv.org/abs/2401.09714" target="_blank">
+1. Andres E. Rubiano, Marc A. Hesse. Non-boussinessq convection in porous media,
+   Matrix Annals, 2024. 
+
+## **Published in refereed international journals**
+
+1. R. Khot, A. E. Rubiano, and R. Ruiz-Baier, Robust virtual element methods for coupled stress-assisted diffusion problems,
+SIAM Journal on Scientific Computing, 47 (2025), pp. A497–A526.  <a href="https://epubs.siam.org/doi/10.1137/24M163640X" target="_blank">
                              <img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/>
                           </a> <a href="https://github.com/aerubianoma/vem_stress_assisted_diffusion" target="_blank">
                                   <img src="https://github.com/user-attachments/assets/05a779cc-ad25-4d42-b324-72c2fb574888" width="25" height="25"/>
                                 </a>
-
-## **Published in refereed international journals**
 
 ## **Contact me**
 
