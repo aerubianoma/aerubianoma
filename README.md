@@ -56,6 +56,9 @@ You can click the Preview link to take a look at your changes.
 1. Andres E. Rubiano. Robust virtual element methods for 3D stress-assisted diffusion problems, 2025. <a href="[https://arxiv.org/abs/2401.09714](https://arxiv.org/abs/2502.01851)" target="_blank">
                              <img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/>                                </a>
 
+2. F. Dassi, R. Khot, Andres E. Rubiano, and R. Ruiz-Baier. A posteriori error analysis of a robust virtual element method for stress-assisted diffusion problems, 2025. <a href="[https://arxiv.org/abs/2401.09714]([https://arxiv.org/abs/2502.01851](https://arxiv.org/abs/2504.00648))" target="_blank">
+                             <img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/>                                </a>
+
 
 ## **In press (accepted for publication)**
 
