@@ -49,7 +49,13 @@ You can click the Preview link to take a look at your changes.
 
 ## **Statistics**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerubianoma&layout=compact&hide=html,jupyter%20notebook,css,coffeescript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerubianoma&layout=compact&hide=html,jupyter%20notebook,css,coffeescript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aerubianoma&theme=dark" />
+</a>
 
 ## **Under review (submitted preprints)**
 
