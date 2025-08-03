@@ -1,5 +1,5 @@
 ## **Welcome to my coding corner**
-👋🏻 G'day 🦘, I'm PhD student from 💛💙❤️☕ at Monash University in computational mathematics. 👀 My interested is numerical solutions to PDEs, Virtual element methods, scientific computing, and applied mathematics 🔢. 🌱 Currently working on VEM for poroelasticity and coupled problems in physics 🧑🏻‍🔬.
+👋🏻 G'day 🦘, I'm PhD student from 💛💙❤️☕ at Monash University in computational mathematics. 👀 My interested is numerical solutions to PDEs, Virtual Element Methods, scientific computing, and applied mathematics 🔢. 🌱 Currently working on VEM for poroelasticity and coupled problems in physics 🧑🏻‍🔬.
 <!---
 aerubianoma/aerubianoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
