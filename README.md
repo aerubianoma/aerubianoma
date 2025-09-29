@@ -74,13 +74,13 @@ Matrix Annals, 2024.
 2. Andres E. Rubiano. Robust virtual element methods for 3D stress-assisted diffusion problems,
 The Proceedings of ANZIAM, 2025.  <a href="https://arxiv.org/abs/2502.01851" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/></a>
 
+3. F. Dassi, R. Khot, Andres E. Rubiano, and R. Ruiz-Baier. Analysis and virtual element discretisation of a Stokes/Biot--Kirchhoff bulk--surface model, Computer Methods in Applied Mechanics and Engineering, 2025. <a href="https://arxiv.org/abs/2508.02450" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/></a>
+
 **Under review (submitted preprints)**
 
 1. F. Dassi, R. Khot, Andres E. Rubiano, and R. Ruiz-Baier. A posteriori error analysis of a robust virtual element method for stress-assisted diffusion problems, 2025. <a href="https://arxiv.org/abs/2504.00648" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/></a><a href="https://gitlab.com/franco.dassi/vemppbinaries/-/tree/main/APE_Dassi_2025?ref_type=heads" target="_blank"><img src="https://github.com/user-attachments/assets/05a779cc-ad25-4d42-b324-72c2fb574888" width="25" height="25"/></a>
 
 2.  F. Dassi, Andres E. Rubiano, I. Velásquez. A posteriori error estimates for a $C^1$ virtual element method applied to the thin plate vibration problem, 2025. <a href="https://arxiv.org/abs/2507.06846" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/></a>
-
-3. F. Dassi, R. Khot, Andres E. Rubiano, and R. Ruiz-Baier. Analysis and virtual element discretisation of a Stokes/Biot--Kirchhoff bulk--surface model, 2025. <a href="https://arxiv.org/abs/2508.02450" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/></a>
 
 ## **Contact me**
 
