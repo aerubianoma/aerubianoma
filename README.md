@@ -59,33 +59,8 @@ You can click the Preview link to take a look at your changes.
 </a>
 --->
 
-## **Publications**
-
-**Published in refereed international journals**
-
-1. R. Khot, Andres E. Rubiano, and R. Ruiz-Baier, Robust virtual element methods for coupled stress-assisted diffusion problems,
-SIAM Journal on Scientific Computing, 47 (2025), pp. A497–A526.  <a href="https://epubs.siam.org/doi/10.1137/24M163640X" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/></a><a href="https://github.com/aerubianoma/vem_stress_assisted_diffusion" target="_blank"><img src="https://github.com/user-attachments/assets/05a779cc-ad25-4d42-b324-72c2fb574888" width="25" height="25"/></a>
-
-**In press (accepted for publication)**
-
-1. Andres E. Rubiano, M. A. Hesse. Non-boussinessq convection in porous media,
-Matrix Annals, 2024.
-
-2. Andres E. Rubiano. Robust virtual element methods for 3D stress-assisted diffusion problems,
-The Proceedings of ANZIAM, 2025.  <a href="https://arxiv.org/abs/2502.01851" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/></a>
-
-3. F. Dassi, R. Khot, Andres E. Rubiano, and R. Ruiz-Baier. Analysis and virtual element discretisation of a Stokes/Biot--Kirchhoff bulk--surface model, Computer Methods in Applied Mechanics and Engineering, 2025. <a href="https://arxiv.org/abs/2508.02450" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/></a>
-
-**Under review (submitted preprints)**
-
-1. F. Dassi, R. Khot, Andres E. Rubiano, and R. Ruiz-Baier. A posteriori error analysis of a robust virtual element method for stress-assisted diffusion problems, 2025. <a href="https://arxiv.org/abs/2504.00648" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/></a><a href="https://gitlab.com/franco.dassi/vemppbinaries/-/tree/main/APE_Dassi_2025?ref_type=heads" target="_blank"><img src="https://github.com/user-attachments/assets/05a779cc-ad25-4d42-b324-72c2fb574888" width="25" height="25"/></a>
-
-2.  F. Dassi, Andres E. Rubiano, I. Velásquez. A posteriori error estimates for a $C^1$ virtual element method applied to the thin plate vibration problem, 2025. <a href="https://arxiv.org/abs/2507.06846" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/6747/6747196.png" width="25" height="25"/></a>
-
 ## **Contact me**
 
 <p>
 <a href="mailto:andres.rubianomartinez@monash.edu?Subject=Interest to reach you" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/aerubianoma/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.researchgate.net/profile/Andres-Rubiano-9" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
 </p>
-
-[1]: https://arxiv.org/abs/2401.09714
